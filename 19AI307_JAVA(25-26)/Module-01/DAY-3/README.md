@@ -70,6 +70,7 @@ class prog {
 <img width="425" height="187" alt="image" src="https://github.com/user-attachments/assets/8bb564f4-b1c4-4aae-bfea-57caac2fa0b5" />
 
 
+
 ## RESULT:
 
 Thus, the Java program to print the Fibonacci series using a for loop was executed successfully.
